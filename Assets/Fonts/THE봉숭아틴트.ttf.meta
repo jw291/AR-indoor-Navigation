@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4da73ba78e09d9c42a0ffe64f2d470c0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: THEBalsamtint
+  fontNames:
+  - THEBalsamtint
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

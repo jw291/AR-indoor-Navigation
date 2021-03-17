@@ -4,21 +4,26 @@
 ![image](https://user-images.githubusercontent.com/46628101/111519107-1c090a80-879a-11eb-92d2-f9353b8b23fb.png)
 
 - email address : jw_29@naver.com <br />
+- Demo Video : https://www.youtube.com/watch?v=02WQKm4_kv0 <br />
+
+나재원 : 실내도면 Vector기능 추가, 유니티 랜더링, Nav Mesh 개발
+최재욱 : 도서 검색 개발, Geo Referencing, Nav Mesh 개발
+이승환 : 도서 데이터 수집, 실내도면 제작, SQLITE 구현 
 
 ## Introduction
-3D modeling된 단국대학교 캠퍼스의 정보를 직관적으로 제공하는 앱입니다.
+단국대학교 퇴계기념중앙도서관 내에서 책의 위치를 AR로 찾아주는 App입니다.
+도서관 내의 배치도와 청구기호로만 책을 찾아야한다는 불편함을 AR로 해결해보았습니다.
 
-1. AR Object 생성 방법 가이드
-2. AR Foundation을 이용하여 원하는 위치에 단국대학교 캠퍼스 생성
-3. 건물 클릭시 HighLight Effect와 함께 UI생성
-4. AR캐릭터가 자막과 모션을 통해 학교 소개
-5. 위치 찾기 버튼 클릭 시 GyroSensor를 이용하여 나침반 실행(미완성 : 정확도가 상당히 떨어짐)
-6. 캠퍼스 오브젝트 파괴 및 재생성
+1. 단국대학교 퇴계기념중앙도서관 내의 책 검색
+2. Mapbox Studio, QGIS툴을 이용하여 실내도면 GeoReferencing
+3. 검색한 책까지의 위치를 AR로 Navigation(Nav Mesh)
+4. 목적지에 생성된 3D 오브젝트를 통해 책의 개요 확인
 
 ## Development Environment
 - Unity Engine
-- AR Foundation SDK
-- MAViC2 Drone / Metashape
+- AR Kit SDK
+- Mapbox Studio/Editor
+- QGIS
 
 
 ## screenshot

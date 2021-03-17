@@ -1,6 +1,6 @@
 # 오픈북 : 단국대학교 도서관 AR Indoor Navigation
 단국대학교 2019 캡스톤디자인(종합설계) 대상작 , 2019 Echo Project 우수작 나재원/최재욱/이승환 <br />
-
+*Asset은 미포함하여 업로드하였습니다.
 ![image](https://user-images.githubusercontent.com/46628101/111519107-1c090a80-879a-11eb-92d2-f9353b8b23fb.png)
 
 - email address : jw_29@naver.com <br />

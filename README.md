@@ -6,9 +6,9 @@
 - email address : jw_29@naver.com <br />
 - Demo Video : https://www.youtube.com/watch?v=02WQKm4_kv0 <br />
 
-나재원 : 실내도면 Vector기능 추가, 유니티 랜더링, Nav Mesh 개발
-최재욱 : 도서 검색 개발, Geo Referencing, Nav Mesh 개발
-이승환 : 도서 데이터 수집, 실내도면 제작, SQLITE 구현 
+나재원 : 실내도면 Vector기능 추가, 유니티 랜더링, Nav Mesh 개발<br />
+최재욱 : 도서 검색 개발, Geo Referencing, Nav Mesh 개발<br />
+이승환 : 도서 데이터 수집, 실내도면 제작, SQLITE 구현 <br />
 
 ## Introduction
 단국대학교 퇴계기념중앙도서관 내에서 책의 위치를 AR로 찾아주는 App입니다.

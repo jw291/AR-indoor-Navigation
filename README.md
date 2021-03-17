@@ -30,8 +30,9 @@
 [플레이샷] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111519183-2a572680-879a-11eb-94fe-45dbdec4e38e.png)<br />
 
+[기능 구현] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111520034-0ba55f80-879b-11eb-9dfb-8aecfa1f619a.png)
 
-[상장]
+[상장] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111520193-368fb380-879b-11eb-90e0-f7ca3d2ab002.png)
 

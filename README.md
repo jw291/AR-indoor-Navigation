@@ -30,5 +30,6 @@
 [모델링 된 대학교 캠퍼스] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111518102-1828b880-8799-11eb-8531-b42420764bc5.png)<br />
 
-![image](https://user-images.githubusercontent.com/46628101/111519271-41961400-879a-11eb-9d0e-db95bf2bf1c5.png)
+![image](https://user-images.githubusercontent.com/46628101/111520034-0ba55f80-879b-11eb-9dfb-8aecfa1f619a.png)
+
 ![image](https://user-images.githubusercontent.com/46628101/111519183-2a572680-879a-11eb-94fe-45dbdec4e38e.png)
